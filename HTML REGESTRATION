@@ -1,0 +1,56 @@
+<html>
+<head>
+<title> Regestration Form </title>
+</head>
+    <h1>Regestration form </h1>
+         Name : <input type ="text">
+        <br>
+        Mobile Number : <input type ="tel">
+        <br>
+         email address : <input type ="email">
+        <br>
+        Date of Birth :<input type ="date">
+        <br>
+        Student regestration number : <input type="tel">
+        <br>
+        Gender :<br>
+            <input type = "radio" name = "x">Male <br>
+            <input type = "radio" name = "x">Female <br>
+        Address : <textarea>  </textarea>
+        <br>
+        passport size photo :<input type="file">
+        <br>
+        Programming Languages Known : <input type="checkbox">c  
+                   <input type="checkbox">cpp
+                   <input type="checkbox">java
+                   <input type="checkbox">Python
+                   <input type="checkbox">HTML
+                   <input type="checkbox">java
+        <br>
+        Department : <select>
+                     <option> select </option>
+                     <option> CSE </option>
+                     <option> ECE </option>
+                     <option> BIO-TECH </option>
+                     <option> MECH </option>
+                     <option> CIVIL </option>
+                     </select>
+        <br>
+        Blood type :<select>
+        <option> select </option>
+        <option> A+ </option>
+        <option> A- </option>
+        <option> B+ </option>
+        <option> B- </option>
+        <option> AB+ </option>
+        <option> AB- </option>
+        <option> O+ </option>
+        <option> O- </option>
+        </select>
+        <br>
+        <input type ="reset">
+        <input type ="submit">
+        </div>
+</form>
+</body>
+</html>
